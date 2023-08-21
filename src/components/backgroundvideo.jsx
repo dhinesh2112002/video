@@ -12,7 +12,7 @@ const Bgvideo = () =>
     <ul>
       <li><a href="#">ABOUT US</a></li>
       <li><a href="#">EVENTS</a></li>
-      <li><a href="#">SIGN IN/SIGN UP</a></li>
+      <li><a href="#">SIGN IN</a></li>
     </ul>
   </nav>
                 <video src={video} autoPlay loop muted/>
